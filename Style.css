@@ -54,6 +54,7 @@ padding: 0;
 }
 
 .p3{
+    text-color: pink;
     border-width: 1px;
     border-style: solid;
     border-color: black;
